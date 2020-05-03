@@ -1,2 +1,2 @@
-# ISL-depth-data
+# ISL depth data
 Indian Sign Language Depth data
